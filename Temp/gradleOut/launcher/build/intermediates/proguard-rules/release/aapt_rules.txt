@@ -1,0 +1,2 @@
+# Referenced at C:\2D-Shooting-master\2D Shooting\Temp\gradleOut\launcher\build\intermediates\merged_manıfests\release\AndroidManifest.xml:41
+-keep class com.unity3d.player.UnityPlayerActivity { <init>(); }
